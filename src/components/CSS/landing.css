@@ -1,0 +1,97 @@
+.landing{
+    position: relative;
+    top: 80px;
+    display: flex;
+    flex-direction: row;
+    padding: 50px 8%;
+}
+.landing-picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.landing-text{
+    width: 60%;
+    padding: 0% 3%;
+}
+.landing-pic{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+}
+.landing-quote{
+    font-size: 5rem;
+    font-weight: 500;
+}
+.landing-quote span{
+    font-size: 6rem;
+    color: #9000ff;
+    font-weight: 600;
+}
+.landing-quote-long{
+    font-size: 2.2rem;
+    margin-bottom: 30px;
+}
+.points{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 10px;
+}
+.point{
+    font-size: 2rem;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.get-started{
+    margin-top: 30px;
+    font-size: 2.5rem;
+    border: 0px;
+    padding: 10px 35px;
+    border-radius: 10px;
+    background-color: #9308ff;
+    color: #fff;
+    box-shadow: 0px 0px 15px #a035f1;
+}
+.get-started:hover{
+    background-color: #6605b2;
+}
+@media all and (max-width:768px) {
+    .landing{
+        flex-direction:column-reverse;
+    }
+    .landing-picture,.landing-text{
+        width: 100%;
+    }
+    .landing-quote{
+        font-size: 4.5rem;
+    }
+    .landing-quote span{
+        font-size: 5rem;
+    }
+    .landing-text{
+        padding: 0px;
+    }
+}
+@media all and (max-width:576px) {
+    .landing-quote{
+        font-size: 4rem;
+    }
+    .landing-quote span{
+        font-size: 4.5rem;
+    }
+    .landing-quote-long{
+        font-size: 2.8rem;
+    }
+    .point{
+        width: fit-content;
+        margin-top: 10px;
+        font-size: 2.5rem;
+    }
+    .points{
+        margin-top: 0px;
+    }
+}
