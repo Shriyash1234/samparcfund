@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Samparcfund/static/css/main.c3d98eff.css",
+    "main.js": "/Samparcfund/static/js/main.d2881577.js",
+    "static/js/787.0061621a.chunk.js": "/Samparcfund/static/js/787.0061621a.chunk.js",
+    "static/media/logo.png": "/Samparcfund/static/media/logo.b3179ee9e0eb1c2b5fa4.png",
+    "static/media/landing-picture.jpeg": "/Samparcfund/static/media/landing-picture.78ec8c9b34814310051f.jpeg",
+    "static/media/startup.png": "/Samparcfund/static/media/startup.84b12b0b9c2fedde390e.png",
+    "static/media/ngo.png": "/Samparcfund/static/media/ngo.5bc8090d96912dcb56e5.png",
+    "static/media/health.png": "/Samparcfund/static/media/health.187d8a73fd7833aede0a.png",
+    "static/media/book.png": "/Samparcfund/static/media/book.024ae0ad8fa3f2c7ed45.png",
+    "index.html": "/Samparcfund/index.html",
+    "main.c3d98eff.css.map": "/Samparcfund/static/css/main.c3d98eff.css.map",
+    "main.d2881577.js.map": "/Samparcfund/static/js/main.d2881577.js.map",
+    "787.0061621a.chunk.js.map": "/Samparcfund/static/js/787.0061621a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d98eff.css",
+    "static/js/main.d2881577.js"
+  ]
+}
