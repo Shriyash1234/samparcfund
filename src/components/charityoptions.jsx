@@ -28,7 +28,8 @@ const Charityoptions = () => {
                 <p className='charity-option-text'>Charity for NGO</p>
                 <p className='charity-option-text-long'>Your contribution can change lives. Help us make a lasting impact through your donation to the NGO</p>
             </div>
-        </div>  
+        </div>
+        <button className='get-started charityoptions-but'>Discover More</button>  
     </section>
   )
 }

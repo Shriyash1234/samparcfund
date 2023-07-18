@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './header'
 import Landing from './landing'
 import Charityoptions from './charityoptions'
+import Middle from './middle'
 const Home = () => {
   return (
     <div className='Home'>
@@ -9,6 +10,7 @@ const Home = () => {
         <Landing/>
         <Charityoptions/>
         <div className='big-circle'/>
+        <Middle/>
     </div>
   )
 }
