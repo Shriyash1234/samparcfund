@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/samparcfund/static/css/main.c3d98eff.css",
-    "main.js": "/samparcfund/static/js/main.e10ef5b6.js",
+    "main.css": "/samparcfund/static/css/main.bb8663f2.css",
+    "main.js": "/samparcfund/static/js/main.a1209b20.js",
     "static/js/787.0061621a.chunk.js": "/samparcfund/static/js/787.0061621a.chunk.js",
     "static/media/logo.png": "/samparcfund/static/media/logo.b3179ee9e0eb1c2b5fa4.png",
     "static/media/landing-picture.jpeg": "/samparcfund/static/media/landing-picture.78ec8c9b34814310051f.jpeg",
+    "static/media/landing-picture-2.jpeg": "/samparcfund/static/media/landing-picture-2.dd17ec52cf033e4a06a0.jpeg",
+    "static/media/landing-picture-3.jpg": "/samparcfund/static/media/landing-picture-3.3102961d67c0dd538f6d.jpg",
     "static/media/startup.png": "/samparcfund/static/media/startup.84b12b0b9c2fedde390e.png",
     "static/media/ngo.png": "/samparcfund/static/media/ngo.5bc8090d96912dcb56e5.png",
     "static/media/health.png": "/samparcfund/static/media/health.187d8a73fd7833aede0a.png",
     "static/media/book.png": "/samparcfund/static/media/book.024ae0ad8fa3f2c7ed45.png",
     "index.html": "/samparcfund/index.html",
-    "main.c3d98eff.css.map": "/samparcfund/static/css/main.c3d98eff.css.map",
-    "main.e10ef5b6.js.map": "/samparcfund/static/js/main.e10ef5b6.js.map",
+    "main.bb8663f2.css.map": "/samparcfund/static/css/main.bb8663f2.css.map",
+    "main.a1209b20.js.map": "/samparcfund/static/js/main.a1209b20.js.map",
     "787.0061621a.chunk.js.map": "/samparcfund/static/js/787.0061621a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3d98eff.css",
-    "static/js/main.e10ef5b6.js"
+    "static/css/main.bb8663f2.css",
+    "static/js/main.a1209b20.js"
   ]
 }
